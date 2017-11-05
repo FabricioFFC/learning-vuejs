@@ -9,4 +9,4 @@ The projects are explained briefly below.
 **For Udemy Course** [https://www.udemy.com/vuejs-2-the-complete-guide/](https://www.udemy.com/vuejs-2-the-complete-guide/)
 
 * `game-project`: a simple player vs monster game to practice the foundation of Vue.js;
-* `componentes-start`: refactoring a Vue.js app with components;
+* `components-start`: refactoring a Vue.js app with components;
