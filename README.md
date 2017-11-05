@@ -10,3 +10,4 @@ The projects are explained briefly below.
 
 * `game-project`: a simple player vs monster game to practice the foundation of Vue.js;
 * `components-start`: refactoring a Vue.js app with components;
+* `components-ex-2`: communication though components using a new Vue instance;
