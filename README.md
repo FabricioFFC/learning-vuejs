@@ -13,3 +13,4 @@ The projects are explained briefly below.
 * `components-ex-2`: communication though components using a new Vue instance;
 * `dynamic-components`: dynamically switching components using the `component`tag;
 * `quotes-project`: project to practice components and slots concepts;
+* `forms-exercise`: exercise to practice handling with `v-model` and creating a custom input;
