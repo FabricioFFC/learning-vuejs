@@ -15,3 +15,4 @@ The projects are explained briefly below.
 * `quotes-project`: project to practice components and slots concepts;
 * `forms-exercise`: exercise to practice handling with `v-model` and creating a custom input;
 * `directive-exercise`: exercise to create a directive to handle with click event;
+* `filters-mixins-exercise`: filters and mixins practice;
