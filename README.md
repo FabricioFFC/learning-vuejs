@@ -16,3 +16,4 @@ The projects are explained briefly below.
 * `forms-exercise`: exercise to practice handling with `v-model` and creating a custom input;
 * `directive-exercise`: exercise to create a directive to handle with click event;
 * `filters-mixins-exercise`: filters and mixins practice;
+* `stock-trader`: stock trader final project.
